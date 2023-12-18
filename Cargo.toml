@@ -1,0 +1,27 @@
+[package]
+name = "auto-pilot"
+version = "0.1.0"
+edition = "2021"
+authors = ["Mostafa Sadeghi"]
+description = "A tool to oprate your computer using GPT4 Vision"
+repository = "https://github.com/mostafasadeghi97/auto-pilot-computer"
+license = "Apache-2.0"
+readme = "README.md"
+keywords = ["cli", "ai", "openai"]
+categories = ["ai", "cli"]
+
+[dependencies]
+async-openai = "0.17.1"
+serde = { version = "1.0.193", features = ["derive"] }
+serde_json = "1.0.108"
+tokio = { version = "1.25.0", features = ["full"] }
+regex = "1.10.2"
+enigo = "0.1.3"
+screenshots = "0.8.5"
+image = "0.24.7"
+imageproc = "0.23.0"
+rusttype = "0.9.3"
+base64 = "0.21.5"
+reqwest = "0.11.22"
+colored = "2.1.0"
+clap = { version = "4.4.11", features = ["derive"] }
