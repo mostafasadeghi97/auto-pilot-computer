@@ -4,10 +4,20 @@ This is a tool that uses GPT4 Vision to operate your computer.
 
 ## Table of Contents
 
+- [Demo Videos](#demo)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
+
+## Demo
+
+
+https://github.com/mostafasadeghi97/auto-pilot-computer/assets/41698808/b9fe7e69-7942-4eb6-838e-b790693057ed
+
+https://github.com/mostafasadeghi97/auto-pilot-computer/assets/41698808/2284bb7d-81a7-4f30-a7b7-262f12439d65
+
+
+
 
 ## Installation
 
