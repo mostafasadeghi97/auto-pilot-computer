@@ -1,6 +1,6 @@
 # Auto-Pilot-Computer
 
-This is a tool leveraging the power of GPT4 Vision to operate your computer for you. You can tell it what you want to achieve and it tries to achieve it for you.
+This tool utilizes GPT4 Vision's capabilities to function as a virtual operator for your computer. Simply specify your desired task, and it will try to accomplish it on your behalf.
 
 ## Table of Contents
 
