@@ -89,6 +89,9 @@ The program will keep executing the actions until the objective is achieved or r
 
 Here is a screenshot of the screen, which includes a grid overlay:
 
+![screenshot_with_grid](https://github.com/mostafasadeghi97/auto-pilot-computer/assets/41698808/bc028fc5-e375-4585-b361-96490a2d66a7)
+
+
 Here is a sample output of the program:
 
 ```bash
