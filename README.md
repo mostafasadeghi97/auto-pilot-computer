@@ -40,7 +40,9 @@ cargo build --release
 
 ## Usage
 
-export your openai api key as an environment variable:
+Make sure that your terminal has access to run operations on your computer. In MacOS, you need to enable terminal access in System Settings > Privacy & Security > Accessibility.
+
+Export your openai api key as an environment variable:
 
 ```bash
 export OPENAI_API_KEY=<your api key>
@@ -90,7 +92,6 @@ The program will keep executing the actions until the objective is achieved or r
 Here is a screenshot of the screen, which includes a grid overlay:
 
 ![screenshot_with_grid](https://github.com/mostafasadeghi97/auto-pilot-computer/assets/41698808/bc028fc5-e375-4585-b361-96490a2d66a7)
-
 
 Here is a sample output of the program:
 
